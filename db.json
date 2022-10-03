@@ -1,0 +1,535 @@
+{
+  "characters": [
+    {
+      "name": "Commando",
+      "abilities": {
+        "passive": null,
+        "primary": [
+          {
+            "name": "Double Tap"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Phase Round"
+          },
+          
+          {
+            "name": "Phase Blast"
+          } 
+        ],
+        "utility": [
+          {
+            "name": "Tactical Dive"
+          },
+          {
+            "name": "Tactical Slide"
+          } 
+        ],
+        "special": [
+          {
+            "name": "Suppressive Fire"
+          },
+          {
+            "name": "Frag Grenade"
+          } 
+        ]
+      }
+    },
+    {
+      "name": "Huntress",
+      "abilities": {
+        "passive": null,
+        "primary": [
+          {
+            "name": "Strafe"
+          },
+          {
+            "name": "Flurry"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Laser Glaive"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Blink"
+          },
+          {
+            "name": "Phase Blink"
+          } 
+        ],
+        "special": [
+          {
+            "name": "Arrow Rain"
+          },
+          {
+            "name": "Ballista"
+          } 
+        ]
+      }
+    },
+    {
+      "name": "Bandit",
+      "abilities": {
+        "passive": [
+          {
+            "name": "Backstab"
+          }
+        ],
+        "primary": [
+          {
+            "name": "Burst"
+          },
+          
+          {
+            "name": "Blast"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Serrated Dagger"
+          },
+          {
+            "name": "Serrated Shiv"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Smoke Bomb"
+          }
+        ],
+        "special": [
+          {
+            "name": "Lights Out"
+          },
+          {
+            "name": "Desperado"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MUL-T",
+      "abilities": {
+        "passive": null,
+        "primary": [
+          {
+            "name": "Auto-Nailgun"
+          },
+          {
+            "name": "Rebar Puncher"
+          },
+          {
+            "name": "Scrap Launcher"
+          },
+          {
+            "name": "Power-Saw"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Blast Canister"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Transport Mode"
+          }
+        ],
+        "special": [
+          {
+            "name": "Retool"
+          },
+          {
+            "name": "Power Mode"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Engineer",
+      "abilities": {
+        "passive": null,
+        "primary": [
+          {
+            "name": "Bouncing Grenades"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Pressure Mines"
+          },
+          {
+            "name": "Spider Mines"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Bubble Shield"
+          },
+          {
+            "name": "Thermal Harpoons"
+          }
+        ],
+        "special": [
+          {
+            "name": "TR12 Gauss Auto-Turret"
+          },
+          {
+            "name": "TR58 Carbonizer Turret"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Artificer",
+      "abilities": {
+        "passive": [
+          {
+            "name": "ENV Suit"
+          }
+        ],
+        "primary": [
+          {
+            "name": "Flame Bolt"
+          },
+          {
+            "name": "Plasma Bolt"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Charged Nano-Bomb"
+          },
+          {
+            "name": "Cast Nano-Spear"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Snapfreeze"
+          }
+        ],
+        "special": [
+          {
+            "name": "Flamethrower"
+          },
+          {
+            "name": "Ion Surge"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Acrid",
+      "abilities": {
+        "passive": [
+          {
+            "name": "Poison"
+          },
+          {
+            "name": "Blight"
+          }
+        ],
+        "primary": [
+          {
+            "name": "Vicious Wounds"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Neurotoxin"
+          },
+          {
+            "name": "Ravenous Bite"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Caustic Leap"
+          },
+          {
+            "name": "Frenzied Leap"
+          }
+        ],
+        "special": [
+          {
+            "name": "Epidemic"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mercenary",
+      "abilities": {
+        "passive": [
+          {
+            "name": "Cybernetic Enhancements"
+          }
+        ],
+        "primary": [
+          {
+            "name": "Laser Sword"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Whirlwind"
+          },
+          {
+            "name": "Rising Thunder"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Blinding Assault"
+          },
+          {
+            "name": "Focused Assault"
+          }
+        ],
+        "special": [
+          {
+            "name": "Eviscerate"
+          },
+          {
+            "name": "Slicing Winds"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Loader",
+      "abilities": {
+        "passive": [
+          {
+            "name": "Scrap Barrier"
+          }
+        ],
+        "primary": [
+          {
+            "name": "Knuckleboom"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Grapple Fist"
+          },
+          {
+            "name": "Spiked Fist"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Charged Gauntlet"
+          },
+          {
+            "name": "Thunder Gauntlet"
+          }
+        ],
+        "special": [
+          {
+            "name": "M551 Pylon"
+          },
+          {
+            "name": "Thunderslam"
+          }
+        ]
+      }
+    },
+    {
+      "name": "REX",
+      "abilities": {
+        "passive": [
+          {
+            "name": "Natural Toxins"
+          }
+        ],
+        "primary": [
+          {
+            "name": "DIRECTIVE: Inject"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "DIRECTIVE: Drill"
+          },
+          {
+            "name": "Seed Barrage"
+          }
+        ],
+        "utility": [
+          {
+            "name": "DIRECTIVE: Disperse"
+          },
+          {
+            "name": "Bramble Volley"
+          }
+        ],
+        "special": [
+          {
+            "name": "DIRECTIVE: Harvest"
+          },
+          {
+            "name": "Tangling Growth"
+          }
+        ]
+      }
+    },
+ {
+      "name": "Dummy",
+      "abilities": {
+        "passive": null,
+        "primary": [
+          {
+            "name": "aaa"
+          },
+          {
+            "name": "aaa"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "bbb"
+          },
+          {
+            "name": "bbb"
+          }
+        ],
+        "utility": [
+          {
+            "name": "ccc"
+          },
+          {
+            "name": "ccc"
+          }
+        ],
+        "special": [
+          {
+            "name": "ddd"
+          },
+          {
+            "name": "ddd"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Captain",
+      "abilities": {
+        "passive": [
+          {
+            "name": "Defensive Microbots"
+          }
+        ],
+        "primary": [
+          {
+            "name": "Vulcan Shotgun"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Power Tazer"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Orbital Probe"
+          },
+          {
+            "name": "OGM-72 'DIABLO' Strike"
+          }
+        ],
+        "special": [
+          {
+            "name": "Orbital Supply Beacon"
+          },
+          {
+            "name": "Beacon: Healing"
+          },
+          {
+            "name": "Beacon: Shocking"
+          },
+          {
+            "name": "Beacon: Resupply"
+          },
+          {
+            "name": "Beacon: Hacking"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Railgunner",
+      "abilities": {
+        "passive": [
+          {
+            "name": "Magnetic Accelerator"
+          }
+        ],
+        "primary": [
+          {
+            "name": "XQR Smart Round System"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "M99 Sniper"
+          },
+          {
+            "name": "HH44 Marksman"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Concussion Device"
+          },
+          {
+            "name": "Polar Field Device"
+          }
+        ],
+        "special": [
+          {
+            "name": "Supercharge"
+          },
+          {
+            "name": "Cryocharge"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Void Fiend",
+      "abilities": {
+        "passive": [
+          {
+            "name": "Void Corruption"
+          }
+        ],
+        "primary": [
+          {
+            "name": "Drown"
+          }
+        ],
+        "secondary": [
+          {
+            "name": "Flood"
+          }
+        ],
+        "utility": [
+          {
+            "name": "Trespass"
+          }
+        ],
+        "special": [
+          {
+            "name": "Suppress"
+          }
+        ]
+      }
+    }
+  ]
+}
