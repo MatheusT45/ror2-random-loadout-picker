@@ -1,1 +1,1 @@
-# ror2-random-loadout-picker
+# Random loadout picker for Risk of Rain 2
